@@ -20,7 +20,7 @@ limitations under the License.
 
 # iterStrided
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Create an [iterator][mdn-iterator-protocol] which steps by a specified amount.
 
@@ -190,9 +190,9 @@ while ( true ) {
 
 ## See Also
 
--   [`@stdlib/iter/advance`][@stdlib/iter/advance]: advances an iterator.
--   [`@stdlib/iter/nth`][@stdlib/iter/nth]: return the nth iterated value.
--   [`@stdlib/iter/strided-by`][@stdlib/iter/strided-by]: create an iterator which steps according to a provided callback function.
+-   <span class="package-name">[`@stdlib/iter/advance`][@stdlib/iter/advance]</span><span class="delimiter">: </span><span class="description">advances an iterator.</span>
+-   <span class="package-name">[`@stdlib/iter/nth`][@stdlib/iter/nth]</span><span class="delimiter">: </span><span class="description">return the nth iterated value.</span>
+-   <span class="package-name">[`@stdlib/iter/strided-by`][@stdlib/iter/strided-by]</span><span class="delimiter">: </span><span class="description">create an iterator which steps according to a provided callback function.</span>
 
 </section>
 
@@ -243,8 +243,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/iter-strided/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/iter-strided?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/iter-strided.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/iter-strided/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
