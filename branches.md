@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/iter/strided"
-click B href "https://github.com/stdlib-js/iter-strided/tree/main"
-click C href "https://github.com/stdlib-js/iter-strided/tree/production"
-click D href "https://github.com/stdlib-js/iter-strided/tree/esm"
-click E href "https://github.com/stdlib-js/iter-strided/tree/deno"
-click F href "https://github.com/stdlib-js/iter-strided/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/iter/strided"
+%% click B href "https://github.com/stdlib-js/iter-strided/tree/main"
+%% click C href "https://github.com/stdlib-js/iter-strided/tree/production"
+%% click D href "https://github.com/stdlib-js/iter-strided/tree/esm"
+%% click E href "https://github.com/stdlib-js/iter-strided/tree/deno"
+%% click F href "https://github.com/stdlib-js/iter-strided/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/iter/strided
