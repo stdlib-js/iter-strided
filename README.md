@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterStrided from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-strided@deno/mod.js';
+import iterStrided from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-strided@v0.2.2-deno/mod.js';
 ```
 
 #### iterStrided( iterator, stride\[, offset\[, eager]] )
@@ -151,7 +151,7 @@ r = it.next().value;
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-randu@deno/mod.js';
-import iterStrided from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-strided@deno/mod.js';
+import iterStrided from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-strided@v0.2.2-deno/mod.js';
 
 // Create a seeded iterator for generating pseudorandom numbers:
 var rand = randu({
