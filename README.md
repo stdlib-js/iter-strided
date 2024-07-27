@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import iterStrided from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-strided@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/iter-strided/tags). For example,
+
+```javascript
 import iterStrided from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-strided@v0.2.2-deno/mod.js';
 ```
 
@@ -151,7 +156,7 @@ r = it.next().value;
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-randu@deno/mod.js';
-import iterStrided from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-strided@v0.2.2-deno/mod.js';
+import iterStrided from 'https://cdn.jsdelivr.net/gh/stdlib-js/iter-strided@deno/mod.js';
 
 // Create a seeded iterator for generating pseudorandom numbers:
 var rand = randu({
