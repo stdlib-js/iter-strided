@@ -4,13 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-23)
+## Unreleased (2026-07-18)
 
 <section class="bug-fixes">
 
 ### Bug Fixes
 
--   [`69e3c24`](https://github.com/stdlib-js/stdlib/commit/69e3c244b17bbd2a08f0751617fa7462eebde393) - disallow number objects [(#13094)](https://github.com/stdlib-js/stdlib/pull/13094)
+-   [`691b9cb`](https://github.com/stdlib-js/stdlib/commit/691b9cb782141124b7225537058b6345888631de) - disallow number objects [(#13094)](https://github.com/stdlib-js/stdlib/pull/13094)
 
 </section>
 
@@ -22,7 +22,7 @@
 
 <details>
 
--   [`69e3c24`](https://github.com/stdlib-js/stdlib/commit/69e3c244b17bbd2a08f0751617fa7462eebde393) - **fix:** disallow number objects [(#13094)](https://github.com/stdlib-js/stdlib/pull/13094) _(by Philipp Burckhardt)_
+-   [`691b9cb`](https://github.com/stdlib-js/stdlib/commit/691b9cb782141124b7225537058b6345888631de) - **fix:** disallow number objects [(#13094)](https://github.com/stdlib-js/stdlib/pull/13094) _(by Philipp Burckhardt)_
 -   [`47e2cbf`](https://github.com/stdlib-js/stdlib/commit/47e2cbfd9223f5fa4da1ac4aa1f87ec9b000038b) - **docs:** fix and align TSDoc comments in `iter` declarations [(#12726)](https://github.com/stdlib-js/stdlib/pull/12726) _(by Philipp Burckhardt)_
 -   [`0287136`](https://github.com/stdlib-js/stdlib/commit/0287136074eb89eede83a3cae5c5b51a7760a57e) - **bench:** refactor to use string interpolation in `iter` [(#11612)](https://github.com/stdlib-js/stdlib/pull/11612) _(by Karan Anand)_
 
